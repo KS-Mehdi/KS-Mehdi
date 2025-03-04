@@ -31,10 +31,10 @@ A full stack web developer passionate about blockchain and AI. Always seeking ne
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ks-mehdi&theme=gruvbox&border_radius=4.5) -->
 ### 📋 List of hackathons
 
-| Hachathon  | Second Header |
+| Organizer  | Project |
 | ------------- | ------------- |
-| Alephium  | Content Cell  |
-| Summit  | Content Cell  |
+| Alephium  | AlphPay  |
+| AI Action Summit  | Emergency AI  |
 <!--
 **KS-Mehdi/KS-Mehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
