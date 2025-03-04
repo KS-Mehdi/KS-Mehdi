@@ -29,7 +29,7 @@ I am a full stack web developer passionate about blockchain and AI. Always seeki
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ks-mehdi&show_icons=true&theme=gruvbox)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) 
+![GitHub Streak](https://streak-stats.demolab.com?user=ks-mehdi&theme=gruvbox&border_radius=4.5) 
 
 <!--
 **KS-Mehdi/KS-Mehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
