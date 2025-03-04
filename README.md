@@ -2,9 +2,9 @@
 
 # 👋 I'm Mehdi Satouri
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+<!--**`Digital Craftsman (Developer/Filmmaker/Creator)`**-->
 
-I am a full stack web developer passionate about blockchain and AI. Always seeking new challenges, I actively participate in hackathons to push the boundaries of my skills and creativity. My thirst for knowledge drives me to constantly explore new technological horizons and innovate in my projects. 
+A full stack web developer passionate about blockchain and AI. Always seeking new challenges, I actively participate in hackathons to push the boundaries of my skills and creativity. My thirst for knowledge drives me to constantly explore new technological horizons and innovate in my projects. 
 
 ---
 
@@ -20,7 +20,6 @@ I am a full stack web developer passionate about blockchain and AI. Always seeki
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://rustacean.net/assets/rustacean-flat-happy.png" />
 <br />
 
 #
@@ -30,7 +29,12 @@ I am a full stack web developer passionate about blockchain and AI. Always seeki
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ks-mehdi&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ks-mehdi&theme=gruvbox&border_radius=4.5) -->
+### 📋 List of hackathons
 
+| Hachathon  | Second Header |
+| ------------- | ------------- |
+| Alephium  | Content Cell  |
+| Summit  | Content Cell  |
 <!--
 **KS-Mehdi/KS-Mehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
