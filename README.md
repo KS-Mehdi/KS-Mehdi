@@ -33,10 +33,10 @@ A full stack web developer passionate about blockchain and AI. Always seeking ne
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ks-mehdi&theme=gruvbox&border_radius=4.5) -->
 ### 📋 List of hackathons
 
-| Organizer  | Project |
-| ------------- | ------------- |
-| Alephium  | AlphPay  |
-| AI Action Summit  | Emergency AI  |
+| Organizer     | Project       | Date          |
+| ------------- | ------------- | ------------- |
+| Alephium      | AlphPay       | Feb 2025      |
+| AI Action Summit  | Emergency AI  | Feb 2025  |
 <!--
 **KS-Mehdi/KS-Mehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
