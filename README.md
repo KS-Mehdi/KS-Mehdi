@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 I'm Mehdi Satouri
+#  I'm Mehdi Satouri 👨🏽‍🎓
 
 <!--**`Digital Craftsman (Developer/Filmmaker/Creator)`**-->
 
@@ -19,8 +19,9 @@ A full stack web developer passionate about blockchain and AI. Always seeking ne
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<br />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /> <br>
+
+<br/>
 
 #
 
@@ -28,6 +29,7 @@ A full stack web developer passionate about blockchain and AI. Always seeking ne
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ks-mehdi&show_icons=true&theme=gruvbox)
 
+#
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ks-mehdi&theme=gruvbox&border_radius=4.5) -->
 ### 📋 List of hackathons
 
